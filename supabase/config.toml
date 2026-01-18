@@ -1,0 +1,28 @@
+project_id = "crnsbstrgmiryloezbfx"
+
+[functions.ai-search]
+verify_jwt = false
+
+[functions.real-search]
+verify_jwt = false
+
+[functions.firecrawl-search]
+verify_jwt = false
+
+[functions.firecrawl-scrape]
+verify_jwt = false
+
+[functions.image-search]
+verify_jwt = false
+
+[functions.news-search]
+verify_jwt = false
+
+[functions.video-search]
+verify_jwt = false
+
+[functions.shopping-search]
+verify_jwt = false
+
+[functions.autocomplete]
+verify_jwt = false
